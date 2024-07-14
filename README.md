@@ -1,0 +1,2 @@
+# KeioNewsNotificator
+慶應義塾高等学校ホームページのニュースが更新された際にLINEでお知らせする。

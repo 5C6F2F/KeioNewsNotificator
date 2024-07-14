@@ -1,0 +1,3 @@
+[line]
+line_api_url = "https://notify-api.line.me/api/notify"
+line_api_token = ""
